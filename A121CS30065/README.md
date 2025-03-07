@@ -11,8 +11,7 @@
 
 ## 🧪 Usage
 ```bash
-pip install -r requirements.txt
-python3 A1_21CS30065.py <PDB ID>
+uv run A1_21CS30065.py <PDB ID>
 ```
 
 #### The **NACCESS path** is stored in `config.toml` file.
